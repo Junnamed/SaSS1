@@ -1,0 +1,30 @@
+.carousel {
+  margin-top: 10px; }
+  .carousel .carousel-inner {
+    padding: 5px;
+    margin: 5px; }
+
+.conteiner {
+  color: #020253;
+  font-family: Arial, Helvetica, sans-serif; }
+  .conteiner .texto {
+    text-align: center;
+    font-size: 3em; }
+  .conteiner .razones {
+    margin: 15px; }
+  .conteiner .tiporazon {
+    margin: 15px; }
+
+.navbar {
+  background-color: rgba(23, 23, 250, 0.315); }
+
+.texto2 {
+  text-align: center;
+  margin: 15px; }
+
+.texto {
+  text-align: center;
+  font-size: 3em; }
+
+.slide img {
+  height: 65vh; }

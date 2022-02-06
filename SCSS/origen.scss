@@ -1,0 +1,38 @@
+
+$color: rgba(23, 23, 250, 0.315);
+$margen: 15px;
+.carousel{
+   margin-top: 10px;
+    .carousel-inner{
+      padding: 5px;
+      margin: 5px; 
+    }
+}
+.conteiner{
+    color: rgb(2, 2, 83);
+    font-family: Arial, Helvetica, sans-serif;
+    .texto{
+        text-align: center;
+        font-size: 3em;
+     }
+     .razones{
+        margin: $margen;
+     }
+     .tiporazon{
+        margin: $margen;
+     }
+}
+.navbar{
+    background-color: $color
+ }
+ .texto2{
+    text-align: center;
+    margin: $margen;
+ }
+ .texto{
+    text-align: center;
+    font-size: 3em;
+ }
+ .slide img{
+   height: 65vh;
+ }
